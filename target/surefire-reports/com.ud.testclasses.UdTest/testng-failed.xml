@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.ud.testclasses.UdTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.ud.testclasses.UdTest">
+        <methods>
+          <include name="aftertest"/>
+          <include name="afterSuite"/>
+          <include name="test"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.ud.testclasses.UdTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.ud.testclasses.UdTest] -->

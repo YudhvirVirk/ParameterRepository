@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="annotations" duration-ms="15" started-at="2014-11-11T07:01:00Z" finished-at="2014-11-11T07:01:00Z">
+    <groups>
+    </groups>
+    <test name="FF" duration-ms="15" started-at="2014-11-11T07:01:00Z" finished-at="2014-11-11T07:01:00Z">
+      <class name="com.ud.testclasses.UdTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.ud.testclasses.UdTest@64d74895]" name="beforeSuite" is-config="true" duration-ms="5" started-at="2014-11-11T12:31:00Z" finished-at="2014-11-11T12:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.ud.testclasses.UdTest@64d74895]" name="beforeTest" is-config="true" duration-ms="0" started-at="2014-11-11T12:31:00Z" finished-at="2014-11-11T12:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.ud.testclasses.UdTest@64d74895]" name="beforemethod" is-config="true" duration-ms="0" started-at="2014-11-11T12:31:00Z" finished-at="2014-11-11T12:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test(java.lang.String)[pri:0, instance:com.ud.testclasses.UdTest@64d74895]" name="test" duration-ms="5" started-at="2014-11-11T12:31:00Z" finished-at="2014-11-11T12:31:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[virk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:com.ud.testclasses.UdTest@64d74895]" name="aftermethod" is-config="true" duration-ms="0" started-at="2014-11-11T12:31:00Z" finished-at="2014-11-11T12:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:com.ud.testclasses.UdTest@64d74895]" name="aftertest" is-config="true" duration-ms="0" started-at="2014-11-11T12:31:00Z" finished-at="2014-11-11T12:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.ud.testclasses.UdTest@64d74895]" name="afterSuite" is-config="true" duration-ms="0" started-at="2014-11-11T12:31:00Z" finished-at="2014-11-11T12:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.ud.testclasses.UdTest -->
+    </test> <!-- FF -->
+  </suite> <!-- annotations -->
+</testng-results>

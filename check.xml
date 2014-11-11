@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="annotations">
+	<test name="FF">
+		<parameter name="browser" value="virk" />
+		<classes>
+			<class name="com.ud.testclasses.UdTest" />
+		</classes>
+	</test>
+</suite>
